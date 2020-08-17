@@ -1,9 +1,13 @@
 body{
     background-color: #13141b;
     color: #ffffff;
+}
+.backgorund-image{
+    max-width: 100%;
+    max-height: auto;
     background-image: url(images/bg-image.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: top;
 }
 
